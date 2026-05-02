@@ -95,9 +95,15 @@ It simulates a real-world cinema booking platform with advanced features like:
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x500?text=CineX+Home+Page" width="80%">
-  <img src="https://via.placeholder.com/900x500?text=Seat+Selection" width="80%">
-  <img src="https://via.placeholder.com/900x500?text=Admin+Dashboard" width="80%">
+      "Home Page" 
+    <img width="1365" height="3828" alt="image" src="https://github.com/user-attachments/assets/eb5e910e-cf84-46ed-8f77-a19f2ca20377" /><br>
+"Movie Page"
+    <img width="1360" height="2018" alt="image" src="https://github.com/user-attachments/assets/b6838add-88cc-4c44-9302-2d833a147328" width="60%"/><br>
+"Seat-Selection Page"
+  <img width="1366" height="1438" alt="image" src="https://github.com/user-attachments/assets/107dbecf-c581-4d12-89f8-72eca5951a57" width="60%"/><br>
+ "Admin Dashboard"
+  <img width="1366" height="1289" alt="image" src="https://github.com/user-attachments/assets/9f8e4dd5-bb35-4c42-8384-8a173f3f8296" />
+
 </p>
 
 ---
