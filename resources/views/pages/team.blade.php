@@ -36,22 +36,22 @@
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1.5rem;">
             @php
 $team = [
-    ['SB', 'Syed Muhammad Bilawal Ali', 'Student1553322',
+    ['bilawal.jpeg', 'Syed Muhammad Bilawal Ali', 'Student1553322',
      'Full Stack Developer (Lead)',
      'Led overall system development including frontend UI, Laravel backend architecture, core functionality, and full project integration.',
      'bilawalshah78924@gmail.com'],
 
-    ['AK', 'Ayan Mujtaba Khan', 'Student1634806',
+    ['ayan.jpeg', 'Ayan Mujtaba Khan', 'Student1634806',
      'Backend Support',
      'Assisted in backend structure, database setup, and application support tasks.',
      'ayanmujtabakhan90@gmail.com'],
 
-    ['HK', 'Haseeba Kausar', 'Student1654000',
+    ['haseeba.jpeg', 'Haseeba Kausar', 'Student1654000',
      'Documentation & Reports',
      'Prepared complete project documentation, eProject reports, user guide, and assisted in requirement structuring.',
      'haseebakausar92@gmail.com'],
 
-    ['SM', 'Shahid Manzar', 'Student1654030',
+    ['shahid.jpeg', 'Shahid Manzar', 'Student1654030',
      'Database Support & QA',
      'Supported testing process, reviewed system flows and usability, and provided assistance in database-related tasks and structure review.',
      'ssmanzar1@gmail.com'],
