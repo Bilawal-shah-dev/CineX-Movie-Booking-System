@@ -1,59 +1,176 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF2D20&size=30&center=true&vCenter=true&width=800&lines=🎬+CineX+Movie+Booking+System;🔥+Advanced+Laravel+Project;🎟️+Real-Time+Seat+Booking;⚡+Admin+Dashboard+%2B+Full+Features" />
 </p>
 
-## About Laravel
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="320" alt="Laravel Logo">
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<p align="center">
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<img src="https://img.shields.io/github/languages/top/Bilawal-shah-dev/CineX-Movie-Booking-System?style=for-the-badge" />
 
-## Learning Laravel
+<img src="https://img.shields.io/github/repo-size/Bilawal-shah-dev/CineX-Movie-Booking-System?style=for-the-badge&color=orange" />
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+<img src="https://img.shields.io/github/last-commit/Bilawal-shah-dev/CineX-Movie-Booking-System?style=for-the-badge&color=red" />
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
 
-## Laravel Sponsors
+</p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+---
 
-### Premium Partners
+# 🎬✨ CineX Movie Booking System
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+<p align="center">
+  <b>Smart • Fast • Cinematic • Powerful</b>
+</p>
 
-## Contributing
+---
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## 🚀 About Project
 
-## Code of Conduct
+🔥 **CineX** is a complete **Online Movie Booking System** built with Laravel.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+It simulates a real-world cinema booking platform with advanced features like:
 
-## Security Vulnerabilities
+✔ Movie browsing  
+✔ Real-time seat booking  
+✔ Ticket generation  
+✔ Admin dashboard  
+✔ Booking management  
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
 
-## License
+## ✨ Features
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 🎟️ User Features
++ Login & Registration  
++ Browse Movies  
++ Watch Trailers (YouTube)  
++ Select Show Date & Time  
++ 🎯 Real-time Seat Selection (168 seats)  
++ 💳 Dummy Payment System  
++ 🎫 Download Ticket  
++ 📜 Booking History  
++ ⭐ Reviews & Ratings  
+
+---
+
+### 🛠️ Admin Features
++ Dashboard with analytics 📊  
++ Manage Movies 🎬  
++ Manage Theaters 🏢  
++ Manage Shows ⏰  
++ Manage Users 👤  
++ View Bookings 📋  
+
+---
+
+### 🚀 Advanced Features
++ 🎯 Unique Booking ID (CX-DDMMYYYY-XXXXXX)  
++ 💺 Visual Seat Map (Gold / Platinum / Box)  
++ 💸 Kids Discount (50%)  
++ 🔄 Seat Cancellation + Refund  
++ 📩 Email Notifications  
++ 🔍 Search & Filter Movies  
++ 🌙 Dark Cinematic UI  
++ 📱 Fully Responsive  
+
+---
+
+## 🛠 Tech Stack
+
+- 💻 Laravel (PHP Framework)  
+- 🧠 MySQL  
+- 🎨 Blade Template Engine  
+- ⚡ JavaScript  
+- 🎯 Bootstrap / Tailwind  
+- 📩 Laravel Mail  
+
+---
+
+## 📸 Preview
+
+<p align="center">
+      "Home Page" 
+    <img width="1365" height="3828" alt="image" src="https://github.com/user-attachments/assets/eb5e910e-cf84-46ed-8f77-a19f2ca20377" /><br>
+"Movie Page"
+    <img width="1360" height="2018" alt="image" src="https://github.com/user-attachments/assets/b6838add-88cc-4c44-9302-2d833a147328" width="60%"/><br>
+"Seat-Selection Page"
+  <img width="1366" height="1438" alt="image" src="https://github.com/user-attachments/assets/107dbecf-c581-4d12-89f8-72eca5951a57" width="60%"/><br>
+ "Admin Dashboard"
+  <img width="1366" height="1289" alt="image" src="https://github.com/user-attachments/assets/9f8e4dd5-bb35-4c42-8384-8a173f3f8296" />
+
+</p>
+
+---
+
+## ⚙️ How to Run Project
+
+```bash
+# 1. Clone repository
+git clone https://github.com/Bilawal-shah-dev/CineX-Movie-Booking-System.git
+
+# 2. Go into project
+cd CineX-Movie-Booking-System
+
+# 3. Install dependencies
+composer install
+
+# 4. Setup environment
+cp .env.example .env
+php artisan key:generate
+
+# 5. Configure database (MySQL)
+
+# 6. Run migrations
+php artisan migrate
+
+# 7. Run server
+php artisan serve
+```
+---
+
+## 🎯 Purpose
+**This project was built to:**
+- Understand real-world application development
+- Learn Laravel MVC architecture
+- Build a full-stack booking system
+- Create a portfolio-level project
+
+
+---
+
+## 👨‍💻 Author
+
+**Syed Muhammad Bilawal Ali**
+
+- 💼 Aspiring Software Engineer  
+- 🚀 Learning Full Stack Development  
+- 🎯 Passionate about building real-world systems
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- 👉 Give it a ⭐ on GitHub  
+- 👉 Share with others  
+
+---
+
+## 💡 Future Improvements
+
+- 💳 Real Payment Integration (Stripe/JazzCash)
+- 🎥 Live Trailer API
+- 📊 Advanced Analytics Dashboard
+- 🌐 Deployment (Cloud Hosting)
+
+---
+ 
+<p align="center"> 🎬 Built with Passion by Bilawal Shah 💙🚀 </p>  
+
